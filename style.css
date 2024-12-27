@@ -7,6 +7,12 @@
     width: 120px;
     border-radius: 9999px;
 }
+@keyframes movein {
+    from {
+        opacity: 0;
+    }
+    
+}
 .photo {
     text-align: center;
 }
@@ -15,7 +21,7 @@
 }
 h1 {
     font-family: sans-serif;
-    color: #006fb5;
+    color: #4e9457bb;
     font-size: 28px;
 }
 .info {
